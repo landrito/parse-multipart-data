@@ -1,8 +1,8 @@
 {
-  "name": "parse-multipart-data",
+  "name": "parse-multipart-data-licensed",
   "version": "0.0.0-development",
   "description":
-    "A javascript/nodejs multipart/form-data parser which operates on raw data.",
+    "A javascript/nodejs multipart/form-data parser which operates on raw data forked from parse-mulitpart-data to add the LICENSE file.",
   "main": "dist/multipart.js",
   "author": "Ignacio Mazzara (nachomazzara@gmail.com)",
   "license": "MIT",
