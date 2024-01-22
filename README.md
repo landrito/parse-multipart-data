@@ -1,7 +1,8 @@
-# parse-multipart-data
+# parse-multipart-data-licensed
 
 A Typescript lib multipart/form-data parser which operates on raw data.
-Forked from [freesoftwarefactory/parse-multipart](https://github.com/freesoftwarefactory/parse-multipart)
+Forked from [nachomazzara/parse-multipart-data](https://github.com/nachomazzara/parse-multipart-data)
+to include a LICENSE file in it's source.
 
 # Background
 
