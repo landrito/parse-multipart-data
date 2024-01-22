@@ -2,7 +2,7 @@
 
 A Typescript lib multipart/form-data parser which operates on raw data.
 Forked from [nachomazzara/parse-multipart-data](https://github.com/nachomazzara/parse-multipart-data)
-to include a LICENSE file in it's source.
+to include an MIT LICENSE file in it's source.
 
 # Background
 
