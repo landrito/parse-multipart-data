@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nachomazzara/parse-multipart-data.git"
+    "url": "https://github.com/landrito/parse-multipart-data-licensed.git"
   },
   "keywords": ["multipart/form-data", "form", "fileuploader"],
   "bugs": {
